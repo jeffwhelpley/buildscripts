@@ -1,0 +1,10 @@
+{
+  "name": "Mesh Web App",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "git://github.com/angular/bower-angular.git#1.0.6",
+    "jquery": "git://github.com/components/jquery.git#~1.9.1",
+    "humane-js": "git://github.com/wavded/humane-js.git#3.0.6",
+    "chai": "git://github.com/chaijs/chai.git#1.5.0"
+  }
+}

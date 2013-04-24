@@ -1,0 +1,6 @@
+if test -z "$1"
+then
+    echo "ERROR: You must set a comment for a prod deployment"
+else
+    grunt prod --m="Prod Deployment: $1"
+fi

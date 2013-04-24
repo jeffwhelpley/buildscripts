@@ -1,0 +1,4 @@
+cd ../server
+coverage run manage.py test --settings=gethuman.settings.test
+coverage report
+cd ../buildscripts
