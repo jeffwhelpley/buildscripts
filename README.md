@@ -12,6 +12,7 @@ http://www.meetup.com/AngularJS-Boston/events/113349762/
 
 * Node 0.10.x
 * `npm install bower -g`
+* `npm install grunt-cli -g`
 
 ## Steps
 
@@ -25,4 +26,6 @@ to match your existing environment):
 * npm install
 * bower install
 
-(TODO: finish filling this out)
+At this point, you are sort of on your own.  This repo doesn't actually have any code or resource files to build, so there are no targets for the buildscripts.
+
+If you have any questions, feel free to ping me at any time on Twitter @jeffwhelpley.
